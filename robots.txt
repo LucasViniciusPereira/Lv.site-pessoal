@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://www.lucasvinicius.eti.br Sitemap: http://www.lucasvinicius.eti.br/index Sitemap: http://www.lucasvinicius.eti.br
